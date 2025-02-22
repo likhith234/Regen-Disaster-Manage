@@ -1,1 +1,5 @@
 # Regen-Disaster-Manage
+THE MODEL CODE IS PRESENT IN main.ipynb
+THE MODEL IS DEPLOYED USING STREAMLIT THE  CODE IS PRESENT IN app.py
+THE WEBDEV CODE IS IN index.html,styles.css and script.js
+THE APK IS PROVIDED 
